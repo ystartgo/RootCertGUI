@@ -75,7 +75,8 @@ powershell -ExecutionPolicy Bypass -File .\RootCertGUI.ps1
 3. 無 `whitelist.json` → 建立空白白名單  
 4. 自動一次掃描 + 風險分類  
 5. 可進一步按：Local Update、Mozilla Compare、Risk Classify、Diff
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/38640f50-b966-4bcd-bd8d-d6116243e1e0" />
+
+
 
 ---
 
@@ -83,12 +84,12 @@ powershell -ExecutionPolicy Bypass -File .\RootCertGUI.ps1
 
 | 圖片 | 說明 |
 |------|------|
-| `docs/img/screenshot_main.png` | 主視窗（工具列 / 統計 / 日誌） |
+| <img width="1359" height="718" alt="image" src="https://github.com/user-attachments/assets/00f5953a-5f18-4ecf-ab10-8b1a139c1767" /> | 主視窗（工具列 / 統計 / 日誌） |
 | `docs/img/screenshot_diff.png` | Diff Added/Removed/Replaced |
 | `docs/img/screenshot_unique.png` | Local Unique / Mozilla Unique |
 | `docs/img/screenshot_risk.png` | 風險分類 |
 | `docs/img/screenshot_whitelist.png` | 白名單加入/移除 |
-| `docs/img/screenshot_dark.png` | 暗色主題 |
+| <img width="1359" height="717" alt="image" src="https://github.com/user-attachments/assets/2705efea-69e0-47e7-a8ee-acccef2e2fe3" /> | 暗色主題 |
 
 
 ---
