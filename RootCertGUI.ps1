@@ -4,7 +4,7 @@ RootCertGUI.ps1
 Version : 1.4.4 (Patched+Filters+PKI)
 Author  : startgo (startgo@yia.app)
 License : GPLv3
-Repo    : https://github.com/ystartgo
+Repo    : https://github.com/ystartgo/RootCertGUI
 Created : 2025-08-20
 Modified : 2025-09-05
 Description:
@@ -2118,7 +2118,7 @@ $Global:AppMeta = @{
     Author  = "startgo"
     Email   = "startgo@yia.app"
     License = "GPLv3"
-    Repo    = "https://github.com/ystartgo"
+    Repo    = "https://github.com/ystartgo/RootCertGUI"
 }
 
 function Show-HelpWindow {
